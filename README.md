@@ -319,6 +319,7 @@ if (!req.session.userId)
 
 ## 📄 License
 
+
 This project is licensed under the **MIT License** — feel free to use it in your own projects.
 
 ---
